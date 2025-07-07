@@ -1,5 +1,6 @@
 class Solution {
     public int findLucky(int[] arr) {
+        Arrays.sort(arr);
         int arr1[]=new int[501];
         for(int i=0;i<arr.length;i++){
             arr1[arr[i]]++;

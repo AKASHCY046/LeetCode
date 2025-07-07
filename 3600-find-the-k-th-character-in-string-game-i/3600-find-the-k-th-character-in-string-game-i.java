@@ -4,8 +4,7 @@ class Solution {
             return 'a';
         }
         StringBuilder st=new StringBuilder("a");
-        int a=0;
-        while(true){
+        while(st.length()!=k){
             String x=st.toString();
             for(char ch:x.toCharArray()){
                 if(ch=='z'){
@@ -16,12 +15,8 @@ class Solution {
                 }
                 st.append(ch);
                 if(st.length()==k){
-                    a=1;
                     break;
                 }
-            }
-            if(a==1){
-                break;
             }
         }
         return st.charAt(k-1);

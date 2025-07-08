@@ -6,7 +6,7 @@ class Solution {
         int max=0;
         while(first<last){
             int d=last-first;
-            int min=Math.min(arr[first],arr[last]);
+            int min=(arr[first]<arr[last])?arr[first]:arr[last];
             max=Math.max(d*min,max);
             if(arr[first]<arr[last]){
                 first++;

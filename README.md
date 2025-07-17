@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AKASHCY046/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKASHCY046/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AKASHCY046/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Union Find
 |  |
 | ------- |

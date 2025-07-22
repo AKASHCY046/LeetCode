@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKASHCY046/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHCY046/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |

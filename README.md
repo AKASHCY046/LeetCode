@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/AKASHCY046/LeetCode/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/AKASHCY046/LeetCode/tree/master/0504-base-7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKASHCY046/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |

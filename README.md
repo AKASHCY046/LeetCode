@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AKASHCY046/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AKASHCY046/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKASHCY046/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/AKASHCY046/LeetCode/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AKASHCY046/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |

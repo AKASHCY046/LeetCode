@@ -26,7 +26,6 @@ class Solution {
                         }
                         while (second < third && arr[third] == arr[third + 1]) {
                             third--;
-                            
                         }
                     }
                 }

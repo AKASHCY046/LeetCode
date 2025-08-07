@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0953-reverse-only-letters](https://github.com/AKASHCY046/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AKASHCY046/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AKASHCY046/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Union Find
 |  |

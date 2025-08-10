@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AKASHCY046/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
+| [0334-increasing-triplet-subsequence](https://github.com/AKASHCY046/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1287-distance-between-bus-stops](https://github.com/AKASHCY046/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AKASHCY046/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/AKASHCY046/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |

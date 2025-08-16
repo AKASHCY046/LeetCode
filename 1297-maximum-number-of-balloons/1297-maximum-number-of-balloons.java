@@ -1,17 +1,36 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        HashMap<Character,Integer>hs=new HashMap<>();
+        int b=0;
+        int a=0;
+        int l=0;
+        int o=0;
+        int n=0;
         for(char ch:text.toCharArray()){
-            if("baloon".indexOf(ch)!=-1){
-                hs.put(ch,hs.getOrDefault(ch,0)+1);
+            if("balon".indexOf(ch)!=-1){
+                if(ch=='b'){
+                    b++;
+                }
+                else if(ch=='a'){
+                    a++;
+                }
+                else if(ch=='o'){
+                    o++;
+                }
+                else if(ch=='l'){
+                    l++;
+                }
+                else if(ch=='n'){
+                    n++;
+                }
             }
         }
-        int min = Integer.MAX_VALUE;
-        min=Math.min(hs.getOrDefault('a',0),min);
-        min=Math.min(hs.getOrDefault('b',0),min);
-        min=Math.min(hs.getOrDefault('n',0),min);
-        min=Math.min(hs.getOrDefault('l',0)/2,min);
-        min=Math.min(hs.getOrDefault('o',0)/2,min);
+        int min=Integer.MAX_VALUE;
+        min=Math.min(b,min);
+        min=Math.min(a,min);
+        min=Math.min(l/2,min);
+        min=Math.min(o/2,min);
+        min=Math.min(n,min);
         return min;
+
     }
 }

@@ -4,7 +4,6 @@ class Solution {
         int area=0;
         for(int i=0;i<dim.length;i++){
             double val=Math.sqrt((dim[i][0]*dim[i][0])+(dim[i][1]*dim[i][1]));
-            System.out.println(val +" "+(dim[i][0]*dim[i][1]));
             if(max<val){
                 max=val;
                 area=dim[i][0]*dim[i][1];

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AKASHCY046/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/AKASHCY046/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AKASHCY046/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AKASHCY046/LeetCode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/AKASHCY046/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AKASHCY046/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AKASHCY046/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -273,5 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

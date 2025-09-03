@@ -19,7 +19,7 @@ class Solution {
                 }
             }
             else{
-                st.push(Integer.valueOf(str));
+                st.push(Integer.parseInt(str));
             }
         }
         return st.pop();

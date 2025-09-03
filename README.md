@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AKASHCY046/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AKASHCY046/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHCY046/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/AKASHCY046/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AKASHCY046/LeetCode/tree/master/0258-add-digits) |
@@ -292,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AKASHCY046/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

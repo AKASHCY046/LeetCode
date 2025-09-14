@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AKASHCY046/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AKASHCY046/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AKASHCY046/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AKASHCY046/LeetCode/tree/master/0231-power-of-two) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AKASHCY046/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AKASHCY046/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AKASHCY046/LeetCode/tree/master/0383-ransom-note) |

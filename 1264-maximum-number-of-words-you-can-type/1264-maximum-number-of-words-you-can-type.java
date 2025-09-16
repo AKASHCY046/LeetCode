@@ -10,6 +10,7 @@ class Solution {
             for(char ch:x.toCharArray()){
                 if(hs.contains(ch)){
                     is=false;
+                    break;
                 }
             }
             if(is) ans++;

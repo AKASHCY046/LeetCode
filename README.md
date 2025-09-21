@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AKASHCY046/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AKASHCY046/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AKASHCY046/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1048-clumsy-factorial](https://github.com/AKASHCY046/LeetCode/tree/master/1048-clumsy-factorial) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AKASHCY046/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AKASHCY046/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers

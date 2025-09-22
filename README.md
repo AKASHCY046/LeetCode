@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AKASHCY046/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AKASHCY046/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AKASHCY046/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AKASHCY046/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AKASHCY046/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |

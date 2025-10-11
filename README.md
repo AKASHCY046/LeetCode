@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AKASHCY046/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AKASHCY046/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AKASHCY046/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AKASHCY046/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AKASHCY046/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/AKASHCY046/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AKASHCY046/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String
 |  |

@@ -30,11 +30,10 @@ public class Codec {
     public TreeNode deserialize(String data) {
         String ans[]=data.trim().split(" ");
         List<String> al = new ArrayList<>(Arrays.asList(ans));
-        Collections.reverse(al);
         return find1(al);
     }
     public TreeNode find1(List<String>al){
-        String val=al.remove(al.size()-1);
+        String val=al.remove(0);
         if(val.charAt(0)=='n'){
             return null;
         }

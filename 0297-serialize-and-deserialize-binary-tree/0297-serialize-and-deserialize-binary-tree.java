@@ -13,7 +13,6 @@ public class Codec {
     public String serialize(TreeNode root) {
         StringBuilder st=new StringBuilder();
          find(root,st);
-        System.out.println(st);
         return st.toString();
     }
     public void find(TreeNode root,StringBuilder st){
@@ -30,10 +29,11 @@ public class Codec {
     public TreeNode deserialize(String data) {
         String ans[]=data.trim().split(" ");
         List<String> al = new ArrayList<>(Arrays.asList(ans));
+        Collections.reverse(al);
         return find1(al);
     }
     public TreeNode find1(List<String>al){
-        String val=al.remove(0);
+        String val=al.remove(al.size()-1);
         if(val.charAt(0)=='n'){
             return null;
         }
@@ -41,7 +41,6 @@ public class Codec {
         root.left=find1(al);
         root.right=find1(al);
         return root;
-        
     }
 }
 

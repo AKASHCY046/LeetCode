@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AKASHCY046/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AKASHCY046/LeetCode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/AKASHCY046/LeetCode/tree/master/0800-letter-case-permutation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AKASHCY046/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AKASHCY046/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/AKASHCY046/LeetCode/tree/master/1448-maximum-69-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AKASHCY046/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AKASHCY046/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/AKASHCY046/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/AKASHCY046/LeetCode/tree/master/0046-permutations) |
 | [0800-letter-case-permutation](https://github.com/AKASHCY046/LeetCode/tree/master/0800-letter-case-permutation) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

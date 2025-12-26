@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKASHCY046/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-shuffle-string](https://github.com/AKASHCY046/LeetCode/tree/master/1528-shuffle-string) |
 | [1603-running-sum-of-1d-array](https://github.com/AKASHCY046/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/AKASHCY046/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AKASHCY046/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/AKASHCY046/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AKASHCY046/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1528-shuffle-string](https://github.com/AKASHCY046/LeetCode/tree/master/1528-shuffle-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/AKASHCY046/LeetCode/tree/master/2887-sort-vowels-in-a-string) |

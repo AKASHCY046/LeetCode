@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHCY046/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/AKASHCY046/LeetCode/tree/master/0278-first-bad-version) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
@@ -432,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AKASHCY046/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AKASHCY046/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AKASHCY046/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

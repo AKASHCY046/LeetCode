@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-last-stone-weight](https://github.com/AKASHCY046/LeetCode/tree/master/1046-last-stone-weight) |
 | [1287-distance-between-bus-stops](https://github.com/AKASHCY046/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKASHCY046/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHCY046/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/AKASHCY046/LeetCode/tree/master/0661-image-smoother) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AKASHCY046/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AKASHCY046/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |

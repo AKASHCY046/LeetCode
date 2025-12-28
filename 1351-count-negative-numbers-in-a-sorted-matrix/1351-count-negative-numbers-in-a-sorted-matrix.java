@@ -13,7 +13,6 @@ class Solution {
                     left=mid+1;
                 }
             }
-            System.out.println(left+" "+right);
             c+=(arr.length-left);
         }
         return c;

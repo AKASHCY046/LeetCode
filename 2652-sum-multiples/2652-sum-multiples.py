@@ -1,7 +1,8 @@
 class Solution:
     def sumOfMultiples(self, n: int) -> int:
-        s = 0
-        for i in range(1,n + 1):
-            if i % 3 == 0 or i % 5 == 0 or i % 7 == 0:
-                s += i
-        return s
+        def re(i):
+            if i > n:
+                return 0
+            s = i if (i % 3 == 0 or i % 5 == 0 or i % 7 == 0) else 0
+            return s + re(i + 1)
+        return re(1)

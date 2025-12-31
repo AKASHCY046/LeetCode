@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AKASHCY046/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AKASHCY046/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AKASHCY046/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AKASHCY046/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AKASHCY046/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |

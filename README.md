@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AKASHCY046/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/AKASHCY046/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AKASHCY046/LeetCode/tree/master/0079-word-search) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AKASHCY046/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AKASHCY046/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |

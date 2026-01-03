@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/AKASHCY046/LeetCode/tree/master/2652-sum-multiples) |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AKASHCY046/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/AKASHCY046/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/AKASHCY046/LeetCode/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AKASHCY046/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AKASHCY046/LeetCode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/AKASHCY046/LeetCode/tree/master/0800-letter-case-permutation) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/AKASHCY046/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AKASHCY046/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AKASHCY046/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AKASHCY046/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AKASHCY046/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AKASHCY046/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AKASHCY046/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AKASHCY046/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2652-sum-multiples](https://github.com/AKASHCY046/LeetCode/tree/master/2652-sum-multiples) |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AKASHCY046/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/AKASHCY046/LeetCode/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AKASHCY046/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |

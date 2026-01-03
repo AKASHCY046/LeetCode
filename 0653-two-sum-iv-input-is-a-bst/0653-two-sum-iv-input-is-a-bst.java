@@ -15,17 +15,25 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        HashSet<Integer>al=new HashSet<>();
-        return dfs(root,al,k);
-    }
-    public boolean dfs(TreeNode node,HashSet<Integer>al,int k){
-        if(node==null){
-            return false;
+        Queue<TreeNode>qe=new LinkedList<>();
+        HashSet<Integer>hs=new HashSet<>();
+        qe.add(root);
+        while(!qe.isEmpty()){
+            int n=qe.size();
+            for(int i=0;i<n;i++){
+                TreeNode node=qe.poll();
+                if(hs.contains(k-node.val)){
+                    return true;
+                }
+                hs.add(node.val);
+                if(node.left!=null){
+                    qe.add(node.left);
+                }
+                if(node.right!=null){
+                    qe.add(node.right);
+                }
+            }
         }
-        if(al.contains(k-node.val)){
-            return true;
-        }
-        al.add(node.val);
-        return dfs(node.left,al,k)||dfs(node.right,al,k);
+        return false;
     }
 }

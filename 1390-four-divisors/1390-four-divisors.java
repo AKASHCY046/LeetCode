@@ -10,6 +10,7 @@ class Solution {
         int sum=1+x;
         int co=2;
         for(int i=2;i<=Math.sqrt(x);i++){
+            if(co>4) break;
             if(x%i==0){
                 sum+=(i==x/i)?i:(i+ (x/i));
                 co+=(i==x/i)?1:2;

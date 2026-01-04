@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AKASHCY046/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AKASHCY046/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AKASHCY046/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AKASHCY046/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/AKASHCY046/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AKASHCY046/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -479,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AKASHCY046/LeetCode/tree/master/0278-first-bad-version) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

@@ -22,7 +22,6 @@ class Solution {
         List<Integer>ans=new ArrayList<>();
         if(root==null) return ans;
         find(root,ans);
-        System.out.println(ans);
         ans.add(root.val);
         return ans;
     }

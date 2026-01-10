@@ -21,7 +21,6 @@ class Solution {
     public List<Integer> preorder(Node root) {
         List<Integer>li=new ArrayList<>();
         find(root,li);
-        System.out.print(li);
         return li;
     }
     public void find(Node root,List<Integer>ans){

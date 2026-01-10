@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AKASHCY046/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AKASHCY046/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AKASHCY046/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/AKASHCY046/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AKASHCY046/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1048-clumsy-factorial](https://github.com/AKASHCY046/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AKASHCY046/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AKASHCY046/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |

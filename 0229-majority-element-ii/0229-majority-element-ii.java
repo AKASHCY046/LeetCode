@@ -10,6 +10,9 @@ class Solution {
             if(hs.get(x)>max){
                 li.add(x);
             }
+            if(li.size()==2){
+                break;
+            }
         }
         return li;
     }

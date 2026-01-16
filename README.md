@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/AKASHCY046/LeetCode/tree/master/0661-image-smoother) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKASHCY046/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/AKASHCY046/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AKASHCY046/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
@@ -514,11 +518,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AKASHCY046/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/AKASHCY046/LeetCode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -577,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

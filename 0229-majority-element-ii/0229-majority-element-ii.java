@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int x1=-999,x2=-999;
+        int x1=0,x2=0;
         int c1=0,c2=0;
 
         for(int x:nums){
@@ -34,7 +34,7 @@ class Solution {
         if(c1>nums.length/3){
             li.add(x1);
         }
-        if(c2>nums.length/3){
+        if(x1!=x2 && c2>nums.length/3){
             li.add(x2);
         }
         return li;

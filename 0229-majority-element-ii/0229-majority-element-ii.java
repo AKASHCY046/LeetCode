@@ -5,7 +5,7 @@ class Solution {
         int max=nums.length/3;
         for(int x:nums){
             hs.put(x,hs.getOrDefault(x,0)+1);
-            if(hs.get(x)>max){
+            if(!li.contains(x) && hs.get(x)>max){
                 li.add(x);
             }
             if(li.size()==2){

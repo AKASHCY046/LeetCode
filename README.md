@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/AKASHCY046/LeetCode/tree/master/0661-image-smoother) |
+| [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AKASHCY046/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AKASHCY046/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/AKASHCY046/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/AKASHCY046/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKASHCY046/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -509,10 +512,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 ## Heap (Priority Queue)
 |  |

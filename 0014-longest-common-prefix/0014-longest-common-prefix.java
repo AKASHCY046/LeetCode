@@ -1,17 +1,17 @@
 class Solution {
-    public String longestCommonPrefix(String[] strs) {
-        if(strs.length==0 || strs==null){
-            return "";
-        }
-        String str=strs[0];
-        for(int i=1;i<strs.length;i++){
-            while(strs[i].indexOf(str)!=0){
-                str=str.substring(0,str.length()-1);
+    public String longestCommonPrefix(String[] str) {
+        Arrays.sort(str);
+
+        StringBuilder st=new StringBuilder();
+        System.out.println(str[0]+" "+str[str.length-1]);
+        for(int i=0;i<Math.min(str[0].length(),str[str.length-1].length());i++){
+            if(str[0].charAt(i)==str[str.length-1].charAt(i)){
+                st.append(str[0].charAt(i));
             }
-            if(str.isEmpty()){
-                return "";
+            else{
+                break;
             }
         }
-        return str;
+        return st.toString();
     }
 }
